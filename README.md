@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <h1>WELCOME TO MY PROFILE 👋</h1>
+</div>
+<br>
 
-<!--
-**Dynavy/dynavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying Multiplatform Application Development in [STUCOM.](https://www.stucom.com/)
 
-Here are some ideas to get you started:
+🖋️  Working on my own projects to acquire new knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Contact me: dynavy@hotmail.com
+
+
+<div align="center">
+  <h3>⬇ MY SKILLS ⬇</h3>
+</div>
+<br>
+
+
+| 🖥️ Technologies | 📊 Database Technologies | 🔧 Productivity & Collab | 🎨 Design Tools | 
+|:------------:|:---------------------:|:--------------------------------------:|:------------:|
+| [![Frontend & Backend Technologies](https://skillicons.dev/icons?i=js,html,css,php,java)](https://github.com/Dynavy) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Dynavy) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/Dynavy) | [![Productivity & Collaboration Platforms](https://skillicons.dev/icons?i=notion,figma)](https://github.com/Dynavy) | [![Design Tools](https://skillicons.dev/icons?i=ps,pr)](https://github.com/Dynavy) |
