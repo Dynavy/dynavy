@@ -3,7 +3,7 @@
 </div>
 <br>
 
-🎓 Currently studying Multiplatform Application Development in [STUCOM.](https://www.stucom.com/)
+🎓 Graduated in Multiplatform Application Development from [STUCOM.](https://www.stucom.com/)
 
 🖋️  Working on my own projects to acquire new knowledge.
 
