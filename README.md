@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://github-readme-stats.vercel.app/api?username=Dynavy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dynavy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="47%">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Dynavy&theme=dark&hide_border=false" alt="GitHub Stats" width="47%">
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynavy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" rel="noopener noreferrer">
