@@ -1,5 +1,5 @@
 # 👋 About Me:
-🎓 Graduated in Multiplatform Application Development from STUCOM.<br><br> 💼 Currently working as a Full Stack developer at Sonicon Systems S.L<br><br>🖋️ Working on my own projects to acquire new knowledge.<br><br>📧 Contact me: dynavy@hotmail.com<br><br>
+🎓 Graduated in Multiplatform Application Development.<br><br> 💼 Currently working as a Full Stack developer at Sonicon Systems S.L<br><br>🖋️ Working on my own projects to acquire new knowledge.<br><br>📧 Contact me: dynavy@hotmail.com<br><br>
 
 
 # 🌐 Socials:
